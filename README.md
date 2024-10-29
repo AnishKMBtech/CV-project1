@@ -1,5 +1,5 @@
 ---
-title: Image To Text App
+title: CV-01
 emoji: 📹
 colorFrom: blue
 colorTo: red
